@@ -7,3 +7,16 @@ Here you can find index.html files which you can upload to your ~~hacked~~ websi
 ###### I will not be responsible for you indulging in any illegal things.
 
 > Peace Out :+1:
+
+###Here is a common HTMl code you can use:-
+><HTML>
+<HEAD>
+<TITLE>You have been hacked</TITLE>
+</HEAD>
+<BODY bgCOLOR="000000"TEXT="WHITE">
+<H1><MARQUEE>You have been hacked</H1></MARQUEE>
+<PRE>
+
+</PRE>
+</BODY>
+</HTML>

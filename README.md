@@ -9,7 +9,7 @@ Here you can find index.html files which you can upload to your ~~hacked~~ websi
 > Peace Out :+1:
 
 ###Here is a common HTMl code you can use:-
-'''html
+```html
 <HTML>
 <HEAD>
 <TITLE>You have been hacked</TITLE>
@@ -21,4 +21,4 @@ Here you can find index.html files which you can upload to your ~~hacked~~ websi
 </PRE>
 </BODY>
 </HTML>
-'''
+```
